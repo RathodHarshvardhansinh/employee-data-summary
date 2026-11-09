@@ -1,0 +1,61 @@
+Employee ID,Name,Department,Role,Salary
+E034,Employee 034,Marketing,Marketing Associate,50800
+E014,Employee 014,Engineering,Software Engineer,84400
+E025,Employee 025,Sales,Sales Executive,41700
+E060,Employee 060,Finance,Accountant,51600
+E026,Employee 026,Sales,Sales Executive,51600
+E050,Employee 050,HR,HR Manager,83100
+E021,Employee 021,Sales,Sales Executive,46900
+E036,Employee 036,Marketing,Content Strategist,51400
+E035,Employee 035,Marketing,Marketing Manager,82200
+E059,Employee 059,Finance,Accountant,48900
+E029,Employee 029,Sales,Sales Executive,42800
+E042,Employee 042,Marketing,Marketing Associate,43100
+E047,Employee 047,HR,HR Executive,44300
+E043,Employee 043,HR,Recruiter,47800
+E012,Employee 012,Engineering,QA Analyst,64700
+E027,Employee 027,Sales,Sales Executive,46700
+E049,Employee 049,HR,HR Manager,73100
+E007,Employee 007,Engineering,QA Analyst,54600
+E048,Employee 048,HR,HR Executive,50300
+E020,Employee 020,Sales,Account Manager,74600
+E028,Employee 028,Sales,Sales Executive,52300
+E030,Employee 030,Sales,Sales Manager,97400
+E005,Employee 005,Engineering,Software Engineer,68700
+E037,Employee 037,Marketing,Content Strategist,61000
+E006,Employee 006,Engineering,QA Analyst,57600
+E015,Employee 015,Engineering,Software Engineer,68900
+E056,Employee 056,Finance,Financial Analyst,56600
+E019,Employee 019,Sales,Account Manager,67800
+E013,Employee 013,Engineering,QA Analyst,63500
+E054,Employee 054,Finance,Financial Analyst,61600
+E001,Employee 001,Engineering,Software Engineer,80400
+E016,Employee 016,Engineering,Software Engineer,90200
+E023,Employee 023,Sales,Account Manager,74200
+E057,Employee 057,Finance,Finance Manager,108400
+E044,Employee 044,HR,HR Manager,90400
+E017,Employee 017,Engineering,Senior Engineer,117400
+E002,Employee 002,Engineering,Software Engineer,90000
+E045,Employee 045,HR,HR Manager,92100
+E039,Employee 039,Marketing,Marketing Manager,88000
+E009,Employee 009,Engineering,Software Engineer,86700
+E058,Employee 058,Finance,Accountant,53800
+E008,Employee 008,Engineering,Software Engineer,89300
+E003,Employee 003,Engineering,Senior Engineer,104200
+E038,Employee 038,Marketing,Content Strategist,61000
+E041,Employee 041,Marketing,Marketing Manager,85400
+E053,Employee 053,Finance,Accountant,48700
+E052,Employee 052,Finance,Finance Manager,112500
+E024,Employee 024,Sales,Sales Manager,97900
+E018,Employee 018,Engineering,Software Engineer,71700
+E033,Employee 033,Marketing,Content Strategist,62000
+E051,Employee 051,Finance,Financial Analyst,65000
+E040,Employee 040,Marketing,Content Strategist,71200
+E032,Employee 032,Sales,Sales Executive,46800
+E004,Employee 004,Engineering,QA Analyst,51400
+E031,Employee 031,Sales,Account Manager,76300
+E010,Employee 010,Engineering,Software Engineer,69500
+E055,Employee 055,Finance,Financial Analyst,69600
+E046,Employee 046,HR,Recruiter,45100
+E011,Employee 011,Engineering,Software Engineer,82600
+E022,Employee 022,Sales,Sales Manager,87100
